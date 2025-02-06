@@ -1,6 +1,7 @@
 # Instalasi CasaOS di Armbian Linux STB
 
-![CasaOS]([https://github.com/haniefautophile-official/casaos/blob/main/ss/475794704_2327825944243261_9181982750804430447_n.jpg)
+![CasaOS](https://raw.githubusercontent.com/haniefautophile-official/casaos/main/ss/475794704_2327825944243261_9181982750804430447_n.jpg)
+
 
 CasaOS adalah sistem operasi berbasis web yang memudahkan pengelolaan aplikasi dan layanan di server pribadi. Berikut adalah panduan langkah demi langkah untuk menginstal CasaOS di Armbian Linux STB.
 
